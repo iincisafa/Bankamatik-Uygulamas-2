@@ -1,0 +1,7 @@
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\bin\Debug\Bankamatik_Uygulaması_3.exe.config
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\bin\Debug\Bankamatik_Uygulaması_3.exe
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\bin\Debug\Bankamatik_Uygulaması_3.pdb
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\obj\Debug\Bankamatik_Uygulaması_3.csproj.AssemblyReference.cache
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\obj\Debug\Bankamatik_Uygulaması_3.csproj.CoreCompileInputs.cache
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\obj\Debug\Bankamatik_Uygulaması_3.exe
+C:\Users\safai\OneDrive\Masaüstü\SoftwareCourses\Proje_Bankamatik_Uygulaması\Bankamatik_Uygulaması_3\obj\Debug\Bankamatik_Uygulaması_3.pdb
